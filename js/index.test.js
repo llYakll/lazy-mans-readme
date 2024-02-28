@@ -33,3 +33,6 @@ describe('writeToFile function from index.js', () => {
         }).toThrow(error);
     });
 });
+//npx jest, both tests should pass. i will be incorporating tests in all future assignments.
+//I AM UNSURE WHAT WAS MEANT BY "TEST INSTRUCTIONS" and used "screenshots" because most assignments so far have asked for this
+//if it is asking for instructions on how to run my tests, please let me know or clarify. thank you!
