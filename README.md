@@ -1,7 +1,7 @@
 # EZ-README
         
 ## Description
-This is a project to create a readme from the terminal using basically a template, the command line will ask questions relevant to  the section and the users response will be wrote to a markdown file.// same, but with description
+This is a project to create a readme from the terminal using basically a template, the command line will ask questions relevant to  the section and the users response will be wrote to a markdown file.
 
 ## Table of Contents
 - [Installation](#installation)
